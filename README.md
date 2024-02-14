@@ -1,2 +1,4 @@
 # Pizzaa-King
-A Website for a pizza restaurant.
+A fully responsive Webdesign for a pizza restaurant.
+
+Note: More Functions are under maintenance.
